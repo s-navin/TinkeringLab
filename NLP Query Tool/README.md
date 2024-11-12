@@ -5,7 +5,7 @@ Business stakeholders need a tool to simplify the FAQ-based Query-Response inter
 improve the customer experience on their website. In particular, rather than customers having to 
 navigate through FAQ pages, they would prefer customers to be able to type in a question and get a relevant answer.
 
-e.g. Laks just recently bought an EV and wants to use Shell’s Recharge Network to charge his EV during a road trip.    
+e.g. Chiru just recently bought an EV and wants to use Shell’s Recharge Network to charge his EV during a road trip.    
 - Customer query : I want to download the Shell Recharge app, where can I find it?    
 - System’s answer: From Google Play and App store    
 
